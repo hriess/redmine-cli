@@ -154,6 +154,4 @@ $ redmine create \
 
 ## Contributing
 
-Currently, project's roadmap is dictated by my needs at work. If you need a
-feature or encountered a bug please open an issue. If you're OK to invest time
-in this project all PR's are welcome.
+forked project
